@@ -1,0 +1,151 @@
+
+/*Это начало первого блока*/
+
+body{
+	font-family: font-family: 'Montserrat', arial, sans-serif;
+	
+}
+
+
+header {
+	margin: none;
+	border: none;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+	
+}
+
+
+p{ color: white;
+	
+	
+}
+
+a {text-decoration: none;
+  
+	
+}
+a:visited{
+	color:#0a7396;
+	
+	
+	
+}
+ul.MainMeny li {
+	display: inline-block;
+	padding: 30px;
+	text-decoration:none;
+	list-style-type:none;
+	text-align: right;
+	
+}
+
+ul.MainMeny {
+	text-align: right;
+	margin-right: 100px;
+	position: realtive:
+}
+ul>li {
+	 list-style-type: none;
+}
+
+p.MenyABR{
+	margin-top: -65px;
+	margin-left: 40px;
+}
+
+span.DEV{
+	font-size: 98px;
+    color: #074f66;
+    margin-top: 0;
+	
+}
+
+span.AID{
+	    color: #eebf3f;
+		font-size: 98px;
+		margin-top: 0;
+
+	
+}
+
+div.MainTextAndButtons{
+	text-align: center;
+	margin-top: 120px;
+	font-size: 29px;
+	text-decoration: none;
+	}
+	
+div>p{
+	text-decoration: none;
+}	
+	
+	
+p.DEVAID{
+	font-size: 2em;
+	
+}
+
+div.MainButtons{
+	display: block;
+	text-align: center;
+	padding:15px;
+	text-decoration: none;
+	
+	
+}
+.promo .btns .btn {
+    margin-right: 15px;
+    font-size: 18px;
+    padding: 8px 30px;
+	
+}
+
+a.btn-btn-cta-secondary{
+	background: #eebf3f;
+    border: 1px solid #eebf3f;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+	margin-right: 10px;
+	border-radius: 4px;	
+	padding: 10px;
+	
+	
+}
+
+a.btn-btn-cta-primary{
+	background: #074f66;
+    border: 1px solid #074f66;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+	margin-left: 10px;
+	border-radius: 4px;
+	padding: 10px;
+	
+}
+
+
+
+div.Lownavigation ul li{
+	display: inline-block;
+	padding: none;
+	margin-left: 200px;
+	margin-top: 80px;
+	
+	
+	
+	
+	
+}
+.Mainbackground{
+	background-color: #17baef;
+	
+}
+/*Это вот все конец первого блока вплоть да полоски с соушал-медиа*/
+
+
+

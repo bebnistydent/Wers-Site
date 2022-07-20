@@ -1,0 +1,439 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru">
+
+     <head>
+	 
+<meta charset="UTF-8">
+
+<meta name="keywords" content="частный директолог, яндекс директ, директ, настойка директа">
+<meta name="description" content="сайт визитка частного директолога">
+
+<link rel="shortcut icon" href="D:/No work/MY SITE/Favicon/favicon.ico" type="image/x-icon"> <!--Это фавикон-->
+  
+<link rel="stylesheet" href="style.css"> <!--Ссылка на файл со стилями-->                                                                                                                                         
+
+<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet"><!--А это типо ссыль на файл с эмодзи в нэте. Который РАБОТАЕТ!-->
+  
+  
+<title>Частный директолог</title>
+
+<script src="modernizr.min.js"></script><!--Непонятно зачем это нужно, но пусть будет-->
+  
+	   
+	   
+     </head>
+   
+   
+     <body> 
+	 
+	 <header class="page-header"> <!--Тут ШАПКА сайта--> 
+	 
+	        <section class="Bloc-about-me-and-mainMeny">
+			
+	       <div class="headerMenu" align="center"> <!--верхнее меню-->
+	      
+		   <nav>
+		  
+		     <ul class="topmenu">
+			   
+		         <li><a href="#AboutMe">Обо мне</a></li>
+                 <li><a href="#MyServises">Мои услуги</a></li>
+				 <li><a href="#WhyMe">Почему я</a></li>
+				 <li><a href="#Prices">Цены</a></li>
+				 
+			 </ul>
+			 
+		   </nav>
+		   
+			   <hr size="4px" class="header-hr">
+			
+		  
+		  
+	       </div>
+		  
+		  <div class="header-content">
+		  
+		     
+		  
+		  <div align="right" class="Myfoto" class="containerPhoto"> <!--Это блок о том что я такое-->
+	 
+	         <img src="D:/No work/MY SITE/Images/XYPxBZoFWAE.jpg" width="370px" alt="Тут должна быть моя фотография" title="Вот он я" vspace="20px">
+			 
+			 <h1>Кто я такой?</h1>
+			 
+			 <pre><p class="MainText"><font size="4" Face="Times New Roman">Драститя! Меня зовут Никита. И я являюсь на данный момент директологом со стажем.
+			    Выпускник истарического факультета.<del>Не горжусь этим.</del> Мастер по приготовлению суши-роллов.
+				Знаток Английских языков и прогаммистических наук. А еще мама сказала, что я умный и красивый!
+				
+				<aside class="Sadness"><pre><p><font size="4" Face="Times New Roman">
+				Но это не точно <i class="em em-confused" aria-role="presentation" aria-label="CONFUSED FACE"></i></p></pre></aside>
+			    
+			 </font></p></pre>
+             
+			 
+   
+           
+   
+           </div>
+		   
+		   </div>
+		   
+		   </section>
+		   
+		</header> <!--КОНЕЦ шапки сайт-->
+		   
+		 
+              
+		  <section Class="CectionWhatdoido"> <!--Это второй блок о моих услугах. Что я делаю.-->
+          <div title="Расскажу какой я классный">	
+		  
+		     <h2 align="center" Class="CectionWhatdoido_h2"><a name="MyServises">Чем я собственно занимаюсь?</a></h2>
+			 
+			 <p class="Whatdoido"> В общем, я далеко не последний человек в директологии. Не первый тоже, но всетаки.. Я начинал свой путь с самого нуля. Совержил множество ошибок
+			     и прохавал эту тему в доль и поперёк. Кароче говоря, я шарю в том что я делаю, не волнуйтесь. Волноваться за вас буду я. И сушить мозг над вашей рекламой,
+				 тоже я буду.</p> <br>
+				  <p class="Whatdoido">Итак:</p>
+			 
+			 
+			 <ol type="I" class="ColorMark">
+			     <li><span>Я оказываю услуги по персональной настройке рекламы в <strong>Яндекс-Директ</strong> для частного бизнесса.</span></li>
+				 <li><span>Веду аналитику. Вывожу сайты в топ по ключевым запросам в Яндексе. При этом привожу на сайт только <big> заитересованных</big>людей!</span></li>
+				 <li><span>Таким образом не допускаю слива рекламного бюджета в пустую, экономя ваши деньги. Помогаю вам зарабатывать.</span></li>
+		     </ol>		 
+			 
+			 
+		  
+		  </div>
+		  </section>
+		  
+          <hr>
+		  
+		  
+		  <section class="MyPrincipalsSection"> <!--Блок о моих рабочих принципах-->
+		  
+		  <div name="Open div">
+		  
+		  <h2 align="center" class="MyPrincipalsSection_h2"> Мои принципы которых я придеживаюсь в работе это:</h2>
+		  <table class="Numberstable">
+		  <tr><td><div class="nomberone" align="left">
+		  <img src="D:/No work/MY SITE/Images/Цифры/icons8-клавиша-1-60.png" id="one">
+		  <p>ОПЕРАТИВНОСТЬ</p>
+		  <p>Выполняю работу в срок и вовремя.<br>
+		     И не через жеопу!(Но это не точно)</p>
+		  </div></td>
+		  <td><div class="nombertwo" align="center">
+		  <img src="D:/No work/MY SITE/Images/Цифры/icons8-клавиша-2-60.png">
+		  <p>ОККУРАТНОСТЬ</p>
+		  <p>Делаю чтоб всё было чётко, красиво.</br>
+		     И пацанам не стыдно было показать.</p>
+		  </div></td>
+		  
+		  <td><div class="numbertree">
+		  <img src="D:/No work/MY SITE/Images/Цифры/icons8-клавиша-3-60.png" id="tree">
+		  <p id="chestnost">ЧЕСТНОСТЬ</p>
+		  <p>Если я соберусь взять с вас деньги,</br>
+		     и свалить с ними в Мексику, то я </br>
+			 скажу вам об этом заранее. Честно.</p>
+		  </div></td>	 
+		  
+		  <td><div class="numberfour">
+		  <img src="D:/No work/MY SITE/Images/Цифры/icons8-клавиша-4-60.png" id="four">
+		  <p id="umerennost">УМЕРЕННОСТЬ</p>
+		  <p>Из-за перманентной неуверенности<br>
+		     в своих способностях, я стесняюсь<br>
+			 просить много денег за работу.</p>
+		  </div></td></tr>	 
+		  
+		  </table>
+		  
+		  
+		  </div>
+		  
+		  </section>
+		  
+		  
+   
+          <hr width="100%">
+		  
+		  
+		  
+		  <section Class="WhatYouWiilGetSection"> <!--Здесь инфа о том почему со мной стоит сотрудничать-->
+		  
+		  <div align="justify" class="WhatYouWiilGet"> 
+		  
+		     <h2 align="center"><a name="WhyMe">Что вы получаете от сотрудничества со мной?</a></h2>
+			 
+			 
+		 <table cellpadding="10px"> <!--3 списка заточенные в таблицу-->
+		 
+		 
+             <tr>
+             <td>			 
+			 
+		 <div class="block" class="WhatYouWiilGetSatBlock">
+			 
+			 <div align="left" class="ReclamaCard">
+			 
+			 <h3><font size="6"><strong>Реклама</strong></font></h3>
+			 <p>Которая приносит вам прибыль, если чо.</p>
+			 <figure>
+			 <img src="D:/No work/MY SITE/Images/FigureIMG/Reclama.png" width="230px">
+			 <figcaption>В основном в Яндексе.</figcaption>
+             </figure>			 
+			 
+			 <ol>
+			     <li>Контерстная реклама</li>
+				 <li>SEO-Реклама</li>
+				 <li>Таргетированная реклама</li>
+				 <li>Релама на агрегаторах товаров/услуг</li>
+			 </ol>
+			
+			 <p>Реклама двигатель торговли</p>
+			 
+			 
+			 
+			 </div>
+			 
+			 
+			 </td>
+			 
+			 
+			 <td>
+			 
+			 <div align="center" class="AnalisysCard">
+			 
+			 <h3><font size="6"><strong>Аналитика</strong></font></h3>
+			 <p>Проанализирую ВАШ бизнесс и рекламу.<br> Это позволит увеличить выхлоп</p> 
+			 <figure>
+			 <img src="D:/No work/MY SITE/Images/FigureIMG/Analitika.png" width="230px">
+			 <figcaption>Заанализирую по полной</figcaption>
+			 </figure>
+			 
+			 <ol class="AnalisysSet">
+			     <li>Аудит сайта-чтобы найти причину слива денег</li>
+				 <li>Еженедельный аудит-видеть как окупаются расходы рекламного бюджета</li>
+				 <li>Годовой аудит-выявить закономерности потребления</li>
+		     </ol>
+             <p> Знаете закономерности-знаете на что уходят ваши деньги!</p>
+             
+             			 
+				 
+				 
+				 
+			 </div>
+			 
+			 
+			 </td>
+			 
+			 
+			 <td>
+			 
+			 
+			 <div align="right" class="SupportCard">
+			 
+			 <h3><font size="6"><strong>Поддержка и ведение</strong></font></h3>
+			 <p>Управдяю вашей рекламой за вас</p>
+			 <figure>
+			 <img src="D:/No work/MY SITE/Images/FigureIMG/Poddergka.jpg" height="140px">
+			 <figcaption>Ну, не 24 ч прям. Но тоже норм</figcaption>
+			 </figure>
+			 <ol class="SupportSat">
+			           <li>Контроль ставок</li>
+					   <li>Отключение дохлых ключей</li>
+					   <li>Добавление новых ключей</li>
+					   <li>И много всякого вкусного</li>
+			 </ol>		   
+			 <p class="SupportEverydollar">Каждый ВАШ рубль(ну,или доллар) пойдёт в дело!</p> 
+					   
+			 
+			 
+			 </div>
+			 
+			 </tr>
+			 </td>
+			 
+			 </table>
+	  
+
+             </div>
+
+            </div>
+			
+			
+			</section>
+			
+			
+			<hr>
+			
+			<section class="MytafifesSection" id="Prices"> <!--Блок о тарифах на мои услуги-->
+			
+			<h2 align="center">Тарифы на мои выдающиеся услуги</h2>
+			<table>
+			
+			 
+			     <th>
+				 
+				 <td class="TarifNicacushii">
+				 
+				 <h2>Тариф "Никакущий"</h2>
+				 <div class="TarifNicacushiiPictyre">
+				 
+				 <img src="D:/No work/MY SITE/Images/SVG картинки/sadsmiley_85787.svg" width="70px">
+				 </div>
+				 
+				 <p>Что в нем есть?</p>
+				 
+				 <ol>
+				    <li><p>Оценка масштаба трагедии у вашей рекламы</p></li>
+					<li><p>Моё искренней сочуствие, с пожеланием</br>
+					       удачи и хорошего настроения</p></li>
+				 </ol>
+				 
+				 <div class="TarifNicacushiiButton">
+				 
+				 <h4>Стоимость: 50$</h4>
+				 <input type="submit" value="Заказать">
+				 
+				 </div>
+				 
+				 </td>
+				 
+				 
+				 <td class="TarifNormalok">
+				 
+				 <h2>Тариф "Нормалёк"</h2>
+				 
+				 <div class="TarifNormalokPictyre">
+				 <img src="D:/No work/MY SITE/Images/SVG картинки/emoticon-neutral-face-outline_icon-icons.com_64287.svg" width="70px">
+				 </div>
+				 
+				 <p>А что сдесь?</p>
+				 
+				 <ol class="TarifNormalokText">
+				    <li><p>Детальный анализ рекламы и бизнесса в целом.</p></li>
+					<li><p>Настройка рекламной компании +ведение 2 недели.</p></li>
+					<li><p>Советы на будущее, чтоб больше такого не было.</p></li>
+				 </ol>	
+				 
+				 <h4>Стоимость: 150$</h4>
+				 <input type="submit" value="Заказать">
+				 
+				 </td>
+				 
+				 
+				 <td class="TarifSochnii">
+				 
+				 <h2>Тариф "Сочный"</h2>
+				 
+				 <div class="TarifSochniiPictype">
+				 <img src="D:/No work/MY SITE/Images/SVG картинки/smiling-face-with-sunglasses_icon-icons.com_64326.svg" width="70px">
+				 </div>
+				 
+				 <p>А тут?</p>
+				 
+				 <ol>
+				    <li><p>Всё тоже что и в предидушем тарифе</p></li>
+					<li><p>Разарботка полноценной рекламной стратегии</p></li>
+					<li><p>Бесплатно удовлетворю вашу жену пока вы на работе</p></li>
+				 </ol>
+				 
+				 <div class="TarifSochniiButton">
+
+                 <h4>Стоимость: 500$</h4>
+                 <input type="submit" value="Заказать">				 
+				 
+				 </div>
+				 
+				 </td>
+				 
+				 
+				 
+				 </th>
+			
+			
+			
+			
+			
+			
+			
+			</table>
+			</section>
+			
+			<hr>
+			
+			
+			<section class="CartureFormSection"> <!--Это Форма захвата-->
+			
+			
+			<div align="center">
+			
+			<fieldset class="formfieldset">
+			
+			<h2>Свяжитесь со мной через форму</h2>
+			
+		    <p><font size="5">Оставте свою заявку, и я обязательно свяжусь с вами!</font></p>
+			
+			<form action="mailto:smertskosoii@gmail.com?subject=Вопрос по рекламе" enctype="text/plain" method="post"?> 
+			
+			<p><input name="имя" type="text" placeholder="Имя" maxlength="40" size="40"></p>
+			
+			<p><input name="фамилия" type="text" placeholder="Фамилия" maxlength="40" size="40"></p>
+			
+			<p><input name="Email" type="Email" placeholder="Емейл" maxlength="40" size="40"></p>
+			
+			<p><textarea id="textarea" cols="40" Name="comment" rows="10" maxlength="400" placeholder="Есть вопросы? Задавайте!"></textarea></p>
+			
+			<p>Как у вас с рекламой вообще?</p>
+			
+			<p><select name="select" size="7" multiple>
+			
+			<option selected value="s1">Шиикарно!</option>
+			<option selected="s2">Отлично</option>
+			<option selected="s3">Хорошо</option>
+			<option selected="s4">Нормально</option>
+			<option selected="s5">Бывало и лучше</option>
+			<option selected="s6">Плохо</option>
+			<option selected="s7">Жопень :-(</option>
+			
+			</select></p>
+		
+			
+			<!--
+			<button type="submit" border="0px"> 
+			
+			<img src="D:/No work/MY SITE/кнопки/Кнопка ЖМИ.png" width="60xp" style="vertical-align:middle">
+			
+			</button> <!--Заблоченая кнопка-->
+			
+			
+			<input type="button" value="Жми Блеать!" class="button blue"> <!--Работающая кнопка-->
+			
+			
+			</form>
+			
+			</fieldset>
+			
+			</div>
+			
+			
+			</section>
+			
+			
+			<hr size="4px" class="footer-hr">
+			
+			<footer class="footer">
+			<p align="center"><font size="6">&#167;</font></p>
+			<p align="center">Тут пока ничё нет, но будет. Скоро)А пока тут только котик.</p>
+			<p><pre>
+                                                       /\_/\
+                                                      ( o.o )
+                                                       = ^ =
+			
+			</pre></p>
+			<p align="center">&copy;Никита Еремеев</p>
+			</footer>
+     </body> 
+
+
+</html>
