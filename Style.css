@@ -175,7 +175,7 @@ section.WhatIsAev p{
    
    
 }
-div.WhatIsAev-inline-blok div{
+div.WhatIsAev-first-line div{
 	padding-left: 80px;
 	margin-left:
 
@@ -187,20 +187,25 @@ p.W-D-Text{
 	color:black;
 }
 
-div.WhatIsAev-inline-blok{
+div.WhatIsAev-first-line{
 	display: flex;
     justify-content: center; /*Центрирование по горизонтали*/
     align-items: center;
 	
 	
 }
-.First_line_block{
-	padding: 100px;
+
+	
+div.WhatIsAev-second-line {
+	 display: flex;
+    justify-content: center; /*Центрирование по горизонтали*/
+    align-items: center;
 	
 }
 
-.Designed {
-	margin-left: ;
+
+div.WhatIsAev-second-line div{
+	padding-left: 80px;
+	margin-left:	
 	
-	
-}
+
