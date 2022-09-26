@@ -69,6 +69,7 @@ ul>li {
 p.MenyABR{
 	margin-top: -65px;
 	margin-left: 40px;
+	font-size: 26px;
 }
 
 span.DEV{
@@ -175,10 +176,25 @@ section.WhatIsAev{
 	margin-top: 40px;
 	
 }
+
+div.Main-WhatIsAev-container{
+
+padding-top: 60px;
+
+
+}
+
 div.What_Is_Aev_Content{
-	padding-top: 60px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	padding-top: 10px;
+	padding-left: 120px;
+	text-align: left;
+	
 	
 }
+
 
 section.WhatIsAev p{
    color:black;	
@@ -188,41 +204,16 @@ section.WhatIsAev p{
    
    
 }
-div.WhatIsAev-first-line div{
-	padding-left: 80px;
-	margin-left:
 
-	
-}
 
 
 p.W-D-Text{
 	color:black;
 }
 
-div.WhatIsAev-first-line{
-	display: flex;
-    justify-content: center; /*Центрирование по горизонтали*/
-    align-items: center;
-	
-	
-}
-
-	
-div.WhatIsAev-second-line {
-	 display: flex;
-    justify-content: center; /*Центрирование по горизонтали*/
-    align-items: center;
-	
-}
 
 
-div.WhatIsAev-second-line div{
-	padding-left: 80px;
-	margin-left:	
 	
-
-}
 
 
 
@@ -263,7 +254,9 @@ ul.Feature_List li: before{
 
  
  section.Code_Examples  {
-	 
+
+	display: grid;
+	grid-template-columns: 1fr; 
 	 background-color: rgba(245, 245, 245, 1);
 	 
 	 
@@ -357,6 +350,7 @@ div.Footer_content{
 	text-align: center;
 	padding-top: 100px;
 	padding-right: 60px;
+	
 }
 
 
