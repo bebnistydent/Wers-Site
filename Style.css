@@ -177,12 +177,7 @@ section.WhatIsAev{
 	
 }
 
-div.Main-WhatIsAev-container{
 
-padding-top: 60px;
-
-
-}
 
 div.What_Is_Aev_Content{
 	display: grid;
@@ -190,11 +185,25 @@ div.What_Is_Aev_Content{
 	grid-template-rows: 1fr 1fr;
 	padding-top: 10px;
 	padding-left: 120px;
+	padding-right: 120px;
 	text-align: left;
 	
 	
 }
 
+div.Main-WhatIsAev-container{
+
+	padding-top: 80px;
+	grid-column: 1/4;
+	grid-row: 1/3;
+	text-align: center;
+	
+	}
+
+h2.H2-WHAT-IS-DEVAID{
+	padding-bottom: 60px;
+
+}	
 
 section.WhatIsAev p{
    color:black;	
@@ -263,13 +272,9 @@ ul.Feature_List li: before{
 	 
  }
  
- div.Inner_in_Fildset{
-	 
-	 
-	 
- }
  
- div.Inner_in_Fildset fieldset{
+ 
+ div.Inner_in_Fildset fieldset {
 	 text-align: center;
 	 width: 700px;
 	 
@@ -306,7 +311,7 @@ div.Inner_in_Fildset >h1 h2  {
 	border-radius: 5px;
 	
 } 
-code{
+code {
 	color: white;
 	text-align: left;
 	text-align: left;
@@ -340,17 +345,52 @@ div.blue_conteiner p {
 
 /*Начало последнего Footer-блока*/
 
-section.footer_block{
+section.footer_block {
 	background-color:#17baef;
-	
+	padding-bottom: 50px;
 	
 }
 
-div.Footer_content{
+div.Footer_content {
 	text-align: center;
 	padding-top: 100px;
 	padding-right: 60px;
 	
 }
 
+div.div_footer_text_fieldset {
+	display: grid;
+	grid-template-columns: 620px;
+	grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+	padding-left: 30%;
+	margin-top: 60px;
+	
+	
+}
 
+div.div_footer_text_fieldset p {
+
+	color:#074f66;
+}
+
+.footer_fieldset {
+	background: #10b2e7;
+	border: none;
+}
+
+
+div.footer_message_bar {
+
+	text-align: center;
+	padding-top: 60px;
+	
+}
+
+
+ul.message_icon_bar li {
+	display: inline-block;
+	padding: 15px;
+}
